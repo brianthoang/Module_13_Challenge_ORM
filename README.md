@@ -30,11 +30,8 @@
    mysql -u root -p 
    ```
 
-4. Run the following commands
-   ```sh
-    source db/schema.sql
-    quit    
-    ```
+4. Run the commands db/schema.sql and node.js
+
 5. In your terminal run the following commands. Be sure to check if you are in the correct folder
     ```
     npm i 
